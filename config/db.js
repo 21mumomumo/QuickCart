@@ -1,4 +1,3 @@
-import { promise } from "bcrypt/promises";
 import mongoose from "mongoose";
 
 let cached = global.mongoose;
